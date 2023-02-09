@@ -1,7 +1,5 @@
-import folium
 import streamlit as st
 import pandas as pd
-from streamlit_folium import st_folium
 import streamlit as st
 from maps_request import req
 import pandas as pd
